@@ -3,6 +3,11 @@
 * Paraná, Brasil 🏠
 * Cursando Engenharia da Computação na UTFPR-PB 👩‍🎓
 
+![](https://github-readme-stats.vercel.app/api?username=MacriFabiane&theme=midnight-purple&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MacriFabiane&theme=midnight-purple)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MacriFabiane&theme=midnight-purple&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 <div align="left">
 <a href="https://github.com/MacriFabiane">
