@@ -3,20 +3,10 @@
 * Paraná, Brasil 🏠
 * Cursando Engenharia da Computação na UTFPR-PB 👩‍🎓
 
-![](https://github-readme-stats.vercel.app/api?username=MacriFabiane&theme=midnight-purple&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MacriFabiane&theme=midnight-purple)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MacriFabiane&theme=midnight-purple&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=MacriFabiane&theme=midnight-purple&include_all_commits=true&count_private=true" height="150em" />        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MacriFabiane&theme=midnight-purple" height="150em" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacriFabiane&theme=midnight-purple&include_all_commits=true&count_private=true&layout=compac" width="260em" />
 
 
-
-<div align="left">
-<a href="https://github.com/MacriFabiane">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=MacriFabiane&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacriFabiane&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-
-
-<div style="display: inline_block"><br>
-   <img align="center" alt="Macri-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+ <img align="center" alt="Macri-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
    
 ##
