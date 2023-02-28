@@ -6,7 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MacriFabiane&theme=midnight-purple&include_all_commits=true&count_private=true" height="150em" />        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MacriFabiane&theme=midnight-purple" height="150em" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacriFabiane&theme=midnight-purple&include_all_commits=true&count_private=true&layout=compac" width="260em" />
 
 
- <img align="center" alt="Macri-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+ <img align="center" alt="Macri-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">  <img align="center" alt="Macri-LaTeX" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
   
    
 ##
