@@ -1,7 +1,7 @@
 ## Olá, aqui é a Maria Cristina! 🤗
 
 * Paraná, Brasil 🏠
-* Cursando Engenharia da Computação na UTFPR-PB 👩‍🎓
+* Cursando Engenharia de Computação na UTFPR-PB 👩‍🎓
 
 <img src="https://github-readme-stats.vercel.app/api?username=MacriFabiane&theme=midnight-purple&include_all_commits=true&count_private=true" height="150em" />        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MacriFabiane&theme=midnight-purple" height="150em" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacriFabiane&theme=midnight-purple&include_all_commits=true&count_private=true&layout=compac" width="260em" />
 
@@ -15,4 +15,3 @@
 <a href = "mailto:mariacristinafabiane@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
-.
