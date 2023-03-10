@@ -12,7 +12,7 @@
 ##
 <div> 
 <a href="https://instagram.com/macrifabiane" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:mariacristinafabiane@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "https://www.linkedin.com/in/maria-cristina-fabiane/"><img height="27" width="89" src="https://golflifenavigators.com/wp-content/uploads/2018/09/linkedin-logo.png" target="_blank"></a>
+<a href = "mailto:mariacristinafabiane@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "https://www.linkedin.com/in/maria-cristina-fabiane/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 </div>
