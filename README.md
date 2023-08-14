@@ -13,7 +13,9 @@ Aprendendo:
 
 <div align="center">
 
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+<!-- Inclua a animação gerada a partir do arquivo SVG -->
+![Snake animation](https://github.com/MacriFabiane/MacriFabiane/blob/output/github-contribution-grid-snake.svg)
+
   
 </div>
 
