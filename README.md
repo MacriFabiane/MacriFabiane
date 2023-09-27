@@ -3,7 +3,7 @@
 * Paraná, Brasil 🏠
 * Cursando Engenharia de Computação na UTFPR-PB 👩‍🎓
 
-<img src="https://github-readme-stats.vercel.app/api?username=MacriFabiane&theme=midnight-purple&include_all_commits=true&count_private=true" height="150em" />        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MacriFabiane&theme=midnight-purple" height="150em" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacriFabiane&layout=compact&theme=midnight-purple" width="260em" />
+<img src="https://github-readme-stats.vercel.app/api?username=MacriFabiane&theme=midnight-purple&include_all_commits=true&count_private=true" height="150em" />        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MacriFabiane&theme=midnight-purple" height="150em" /> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacriFabiane\&rank_icon=github&theme=midnight-purple) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacriFabiane&layout=compact&theme=midnight-purple" width="260em" />
 
 
 Aprendendo:
