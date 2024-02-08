@@ -4,7 +4,7 @@
 
 :house: Paraná, Brasil;
 
-:woman_student: Cursando 5º período de Engenharia de Computação na UTFPR-PB;
+👩‍🎓: Cursando 5º período de Engenharia de Computação na UTFPR-PB;
 
 :computer: Aluna de Iniciação Tecnológica;
 
