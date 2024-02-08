@@ -1,17 +1,20 @@
-## $$Olá, aqui é a Maria Cristina!$$🤗
+## $${\color{violet}Olá, \space aqui \space é \space a \space Maria \space Cristina!🤗}$$  
+### $${\color{violet}Bem-vindo(a) \space ao \space meu \space portifólio!}$$
+
 
 * Paraná, Brasil 🏠
 * Cursando 4º período de Engenharia de Computação na UTFPR-PB 👩‍🎓
 
 <div align="center" justify-items="space-between">
-       <img src="https://github-readme-stats.vercel.app/api?username=MacriFabiane&rank_icon=github&theme=midnight-purple&include_all_commits=true&count_private=true" height="150em" /> 
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MacriFabiane&theme=midnight-purple" height="150em" /> 
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacriFabiane&layout=compact&theme=midnight-purple"  height="150em"/>
+       <img src="https://github-readme-stats.vercel.app/api?username=MacriFabiane&rank_icon=github&theme=midnight-purple&include_all_commits=true&count_private=true"  width="32%" /> 
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MacriFabiane&theme=midnight-purple" width="35%" /> 
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacriFabiane&layout=compact&theme=midnight-purple" width="25%"/>
  <br>
 </div>
+<img width='100%' src="https://github-readme-activity-graph.vercel.app/graph?username=MacriFabiane&theme=midnight-purple" />
 
 
-<div align="center" justify-items="space-between">
+<div align="center" justify-items="space-between" border-top="200px">
 
    <img align="center" alt="Macri-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">  
    <img align="center" alt="Macri-LaTeX" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"> 
