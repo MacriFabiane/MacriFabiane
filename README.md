@@ -1,18 +1,20 @@
-## $${\color{violet}Olá, \space aqui \space é \space a \space Maria \space Cristina!🤗}$$  
-### $${\color{violet}Bem-vindo(a) \space ao \space meu \space portifólio!}$$
+## $${\color{#449edc}Oie, \space aqui \space é \space a \space Maria \space Cristina!🤗}$$  
+### $${\color{#449edc}Bem-vindo(a) \space ao \space meu \space portifólio!}$$
 
 
-* Paraná, Brasil 🏠
-* Cursando 4º período de Engenharia de Computação na UTFPR-PB 👩‍🎓
+:house: Paraná, Brasil;
+
+:woman_student: Cursando 5º período de Engenharia de Computação na UTFPR-PB;
+
+:computer: Aluna de Iniciação Tecnológica;
 
 <div align="center" justify-items="space-between">
        <img src="https://github-readme-stats.vercel.app/api?username=MacriFabiane&rank_icon=github&theme=midnight-purple&include_all_commits=true&count_private=true"  width="34%" /> 
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MacriFabiane&theme=midnight-purple" width="37%" /> 
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MacriFabiane&theme=midnight-purple" width="37.5%" /> 
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacriFabiane&layout=compact&theme=midnight-purple" width="27%"/>
  <br>
 </div>
-<img width='100%' src="https://github-readme-activity-graph.vercel.app/graph?username=MacriFabiane&theme=midnight-purple" />
-
+<img width='100%' src="https://github-readme-activity-graph.vercel.app/graph?username=MacriFabiane&theme=github-dark" />
 
 <div align="center" justify-items="space-between" border-top="200px">
 
@@ -22,7 +24,11 @@
    <img  align="center" alt="Macri-css3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />  
    <img align="center" alt="Macri-JS" heigth="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
    <img align="center" alt="Macri-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
-   <img align="center" alt="Macri-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <!- <img align="center" alt="Macri-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+   <img align="center" alt="Macri-PHP" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+   <img align="center" alt="Macri-MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+                  
+   
    
  </div> 
    
