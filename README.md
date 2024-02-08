@@ -4,7 +4,7 @@
 
 :house: Paraná, Brasil;
 
-👩‍🎓: Cursando 5º período de Engenharia de Computação na UTFPR-PB;
+<img width="2%" src="https://github.com/MacriFabiane/MacriFabiane/assets/102324931/d12708f7-0d4e-4d1b-af04-0149f73d284c"/> Cursando 5º período de Engenharia de Computação na UTFPR-PB;
 
 :computer: Aluna de Iniciação Tecnológica;
 
