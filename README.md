@@ -3,7 +3,7 @@
 
 <div> <br> </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=10000&color=8A2BE2&height=30&random=false&width=435&separator=%3C&lines=Paran%C3%A1%2C+Brasil;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=10000&color=8A2BE2&height=30&width=790&random=false&separator=%3C&lines=Paran%C3%A1%2C+Brasil;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=8A2BE2&random=false&size=18&width=790&height=30&separator=%3C&lines=Cursando+5%C2%BA+per%C3%ADodo+de+Engenharia+de+Computa%C3%A7%C3%A3o+na+UTFPR-PB;)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=10000&color=8A2BE2&random=false&width=790&height=30&separator=%3C&lines=Aluna+de+Inicia%C3%A7%C3%A3o+Tecnol%C3%B3gica;)](https://git.io/typing-svg)
 
