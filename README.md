@@ -9,7 +9,6 @@
 
 <div align="center" justify-items="space-between">
        <img src="https://github-readme-stats.vercel.app/api?username=MacriFabiane&rank_icon=github&theme=midnight-purple&include_all_commits=true&count_private=true"  width="34%" /> 
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MacriFabiane&theme=midnight-purple" width="37.5%" /> 
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacriFabiane&layout=compact&theme=midnight-purple" width="27%"/>
  <br>
 </div>
