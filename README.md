@@ -9,11 +9,11 @@
 
 <div align="center" justify-items="space-between">
        <img src="https://github-readme-stats.vercel.app/api?username=MacriFabiane&rank_icon=github&theme=midnight-purple&include_all_commits=true&count_private=true"  width="34%" /> 
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=MacriFabiane&theme=midnight-purple" width="37.5%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=MacriFabiane&theme=midnight-purple&mode=weekly" alt="" width="37.5%"/>
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacriFabiane&layout=compact&theme=midnight-purple" width="27%"/>
+       
  <br>
 </div>
-
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MacriFabiane&bg_color=000000&color=8a2bee&line=8a2be2&point=330551&area=true&hide_border=true)
 
@@ -28,6 +28,8 @@
   <!- <img align="center" alt="Macri-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
    <img align="center" alt="Macri-PHP" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
    <img align="center" alt="Macri-MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" alt="Macri-Django" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+   <img align="center" alt="Macri-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
                   
    
    
