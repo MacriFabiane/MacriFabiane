@@ -4,7 +4,7 @@
 <div> <br> </div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=10000&color=8A2BE2&height=30&width=790&random=false&separator=%3C&lines=Paran%C3%A1%2C+Brasil;)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=8A2BE2&random=false&size=18&width=790&height=30&separator=%3C&lines=Cursando+5%C2%BA+per%C3%ADodo+de+Engenharia+de+Computa%C3%A7%C3%A3o+na+UTFPR-PB;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=8A2BE2&random=false&size=18&width=790&height=30&separator=%3C&lines=Cursando+6%C2%BA+per%C3%ADodo+de+Engenharia+de+Computa%C3%A7%C3%A3o+na+UTFPR-PB;)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=10000&color=8A2BE2&random=false&width=790&height=30&separator=%3C&lines=Aluna+de+Inicia%C3%A7%C3%A3o+Tecnol%C3%B3gica;)
 
 <div align="center" justify-items="space-between">
@@ -30,6 +30,7 @@
    <img align="center" alt="Macri-MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
    <img align="center" alt="Macri-Django" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
    <img align="center" alt="Macri-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+   <img align="center" alt="Macri-Postgresql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
                   
    
    
