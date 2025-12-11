@@ -20,7 +20,8 @@
 
 <div align="center" justify-items="space-between" border-top="200px">
                   
-<img src="https://skillicons.dev/icons?i=c,java,html,css,js,django,php,py,mysql,postgres,github,latex,arduino,jquery,flask,mongodb" />
+<img src="https://skillicons.dev/icons?i=c,java,html,css,js,django,php,py,mysql,postgres,github,latex,arduino,jquery,flask" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
    
  </div> 
    
